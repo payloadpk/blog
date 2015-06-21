@@ -3,28 +3,30 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+This is the official Payload blog. This is an open blog, meaning anyone can
+contribute, but with #TeamPayload's approval.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Follow Payload:
 
-There are currently two themes built on Poole:
+* [Payload](http://payload.pk/)
+* [Facebook](http://hyde.getpoole.com)
+* [Twitter](http://lanyon.getpoole.com)
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Contribute to Payload on [GitHub](https://github.com/payloadpk).
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Contributions
 
-## Setup
+To write a post, use [stackedit](https://stackedit.io). Save the file in the
+as `yyyy-mm-dd-hyphenated-tite.md` include the following header:
 
-Some fun facts about the setup of this project include:
+```
+---
+layout: post
+title: <title>
+author: <author>
+---
+```
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Either open a pull request on the [blog](https://github.com/payloadpk/blog)
+or [mail it](mailto:team@payload.pk) along with your full name, and a url to
+your social media profile.

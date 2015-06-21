@@ -7,15 +7,22 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Payload
+tagline:          'The Blog'
+description:      'The official Payload blog. Hosted in the <a href="https://github.com/payloadpk/blog" target="_blank">open</a> by <a href="https://payload.pk" target="_blank">Payload</a>.'
+url:              //blog.payload.pk
 baseurl:          /
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+authors:
+  gilani:
+    name:           'Amin Shah Gilani'
+    url:            https://twitter.com/amingilani
+  sulaiman:
+    name:           'Sulaiman Khan'
+    url:            https://twitter.com/sulykhan
+  zakra:
+    name:           'Zakra Chachar'
+    url:            https://twitter.com/zakrachachar
 
 paginate:         5
 
@@ -23,4 +30,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/payloadpk/blog
