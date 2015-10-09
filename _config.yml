@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Payload
 tagline:          'The Blog'
-description:      'The official Payload blog. Hosted in the <a href="https://github.com/payloadpk/blog" target="_blank">open</a> by <a href="https://payload.pk" target="_blank">Payload</a>.'
+description:      'The official <a href="https://payload.pk" target="_blank">Payload</a> blog.'
 url:              //blog.payload.pk
 baseurl:          /
 
